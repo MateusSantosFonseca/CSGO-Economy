@@ -1,0 +1,4 @@
+﻿  csgo-economy.cpp
+C:\Users\Mateus Fonseca\Desktop\csgo-economy\csgo-economy\csgo-economy\csgo-economy.cpp(145,38): warning C4101: 'e': unreferenced local variable
+C:\Users\Mateus Fonseca\Desktop\csgo-economy\csgo-economy\csgo-economy\csgo-economy.cpp(160,39): warning C4101: 'e': unreferenced local variable
+  csgo-economy.vcxproj -> C:\Users\Mateus Fonseca\Desktop\csgo-economy\csgo-economy\Debug\csgo-economy.exe
